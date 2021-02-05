@@ -1,6 +1,5 @@
 import requests
 from jsonobject import JsonObject
-from jsonobject.properties import StringProperty
 from jsonobject.properties import IntegerProperty
 
 

@@ -1,0 +1,5 @@
+setup.py
+testina.egg-info/PKG-INFO
+testina.egg-info/SOURCES.txt
+testina.egg-info/dependency_links.txt
+testina.egg-info/top_level.txt
